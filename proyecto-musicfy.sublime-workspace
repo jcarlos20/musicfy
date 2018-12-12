@@ -1,0 +1,632 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"IF",
+				"if\tkeyword"
+			],
+			[
+				"a",
+				"albums\tproperty"
+			],
+			[
+				"Album",
+				"AlbumService\talias"
+			],
+			[
+				"th",
+				"this\tkeyword"
+			],
+			[
+				"_route",
+				"_router\tproperty"
+			],
+			[
+				"_",
+				"_albumService\tproperty"
+			],
+			[
+				"_rout",
+				"_route\tproperty"
+			],
+			[
+				"album",
+				"album-edit.component\tscript"
+			],
+			[
+				"get",
+				"getToken\tmethod"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"artis",
+				"_artistService\tproperty"
+			],
+			[
+				"margi",
+				"margin-right\tproperty"
+			],
+			[
+				"Artist",
+				"ArtistDetailComponent\talias"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"Artis",
+				"ArtistService\talias"
+			],
+			[
+				"pa",
+				"page\tlet"
+			],
+			[
+				"Param",
+				"Params\talias"
+			],
+			[
+				"_rou",
+				"_route\tproperty"
+			],
+			[
+				"Para",
+				"Params\talias"
+			],
+			[
+				"Reque",
+				"RequestOptions\talias"
+			],
+			[
+				"Re",
+				"RequestOptions\talias"
+			],
+			[
+				"con",
+				"console\tvar"
+			],
+			[
+				"err",
+				"error\tparameter"
+			],
+			[
+				"let",
+				"let\tkeyword"
+			],
+			[
+				"ART",
+				"ArtistService\talias"
+			],
+			[
+				"Art",
+				"ArtistService\talias"
+			],
+			[
+				"se",
+				"services\tdirectory"
+			],
+			[
+				"va",
+				"valid"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"form",
+				"formArtist"
+			],
+			[
+				"_ro",
+				"_router\tproperty"
+			],
+			[
+				"g",
+				"getIdentity\tmethod"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"bord",
+				"border-color\tproperty"
+			],
+			[
+				"border",
+				"border-top\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"tab",
+				"table-cell\tdisplay"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"im",
+				"image_path\tlet"
+			],
+			[
+				"func",
+				"function\tkeyword"
+			],
+			[
+				"on",
+				"onreadystatechange\tproperty"
+			],
+			[
+				"for",
+				"formData\tlocal var"
+			],
+			[
+				"file",
+				"filesToUpload\tproperty"
+			],
+			[
+				"user",
+				"userId"
+			],
+			[
+				"app",
+				"appRoutingProviders\talias"
+			],
+			[
+				"expor",
+				"export\tkeyword"
+			],
+			[
+				"pr",
+				"private\tkeyword"
+			],
+			[
+				"us",
+				"user_register\tproperty"
+			],
+			[
+				"bt",
+				"btn-primary"
+			],
+			[
+				"loca",
+				"localStorage\tvar"
+			],
+			[
+				"operator",
+				"operators\tdirectory"
+			],
+			[
+				"User",
+				"UserService\talias"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"Form",
+				"FormsModule\talias"
+			],
+			[
+				"import",
+				"import\tkeyword"
+			],
+			[
+				"col",
+				"col-lg-6"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"DI",
+				"DIV\tTag"
+			],
+			[
+				"number",
+				"number\tkeyword"
+			],
+			[
+				"bo",
+				"bootstrap"
+			],
+			[
+				"A",
+				"Access-Control-Allow-Headers"
+			],
+			[
+				"re",
+				"res"
+			],
+			[
+				"gets",
+				"getSongFile"
+			],
+			[
+				"uplo",
+				"uploadFile"
+			],
+			[
+				"de",
+				"deleteSong"
+			],
+			[
+				"fin",
+				"findById"
+			],
+			[
+				"upda",
+				"updateSong"
+			],
+			[
+				"song",
+				"songStored"
+			],
+			[
+				"md",
+				"md_auth"
+			],
+			[
+				"find",
+				"findById"
+			],
+			[
+				"artist",
+				"artist"
+			],
+			[
+				"uploa",
+				"uploadImage"
+			],
+			[
+				"req",
+				"req"
+			],
+			[
+				"arti",
+				"artistUpdated"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ar",
+				"artistStored"
+			],
+			[
+				"save",
+				"saveArtist"
+			],
+			[
+				"path",
+				"path_file"
+			],
+			[
+				"image",
+				"imageFile"
+			],
+			[
+				"ex",
+				"ext_split"
+			],
+			[
+				"use",
+				"userStored"
+			],
+			[
+				"b",
+				"bcrypt"
+			],
+			[
+				"body",
+				"bodyParser"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/wamp/www/crm/package.json",
+			"settings":
+			{
+				"buffer_size": 222,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp/www/crm"
+	],
+	"file_history":
+	[
+		"/C/cygwin64/home/Home/.bash_profile",
+		"/C/wamp/www/musicfy/client/src/app/app.module.ts",
+		"/C/wamp/www/musicfy/client/src/app/app.routing.ts",
+		"/C/wamp/www/musicfy/client/src/app/services/album.service.ts",
+		"/C/wamp/www/musicfy/client/src/assets/css/styles.css",
+		"/C/wamp/www/musicfy/client/src/app/views/artist-detail.html",
+		"/C/wamp/www/musicfy/client/src/app/components/artist-detail.component.ts",
+		"/C/wamp/www/musicfy/server/controllers/album.js",
+		"/C/wamp/www/musicfy/client/src/app/views/album-add.html",
+		"/C/wamp/www/musicfy/client/src/app/components/album-edit.component.ts",
+		"/C/wamp/www/musicfy/client/src/app/components/album-add.component.ts",
+		"/C/wamp/www/musicfy/server/routes/album.js",
+		"/C/wamp/www/musicfy/client/src/app/components/artist-add.component.ts",
+		"/C/wamp/www/musicfy/client/src/app/views/artist-list.html",
+		"/C/wamp/www/musicfy/client/src/app/components/artist-list.component.ts",
+		"/C/wamp/www/musicfy/client/src/app/services/global.ts",
+		"/C/wamp/www/musicfy/server/index.js",
+		"/C/wamp/www/musicfy/server/controllers/artist.js",
+		"/C/wamp/www/musicfy/client/src/app/views/artist-add.html",
+		"/C/wamp/www/musicfy/client/src/app/components/artist-edit.component.ts",
+		"/C/wamp/www/musicfy/client/src/app/services/artist.service.ts",
+		"/C/wamp/www/musicfy/client/src/app/services/upload.service.ts",
+		"/C/wamp/www/musicfy/client/src/app/components/home.component.ts",
+		"/C/wamp/www/musicfy/client/src/app/views/home.html",
+		"/C/wamp/www/musicfy/client/src/app/components/user-edit.component.ts",
+		"/C/wamp/www/musicfy/client/src/app/views/user-edit.html",
+		"/C/wamp/www/musicfy/client/src/app/app.component.html",
+		"/C/wamp/www/musicfy/client/src/app/app.component.ts",
+		"/C/wamp/www/musicfy/client/src/index.html",
+		"/C/wamp/www/musicfy/client/src/app/services/user.service.ts",
+		"/C/wamp/www/musicfy/server/controllers/user.js",
+		"/C/wamp/www/musicfy/client/src/app/models/song.ts",
+		"/C/wamp/www/musicfy/client/src/app/models/album.ts",
+		"/C/wamp/www/musicfy/client/src/app/models/artist.ts",
+		"/C/wamp/www/musicfy/client/src/app/models/user.ts",
+		"/C/wamp/www/musicfyAngular/src/app/app.component.ts",
+		"/C/wamp/www/musicfy/index.js",
+		"/C/wamp/www/musicfy/package.json",
+		"/C/wamp/www/musicfy/app.js",
+		"/C/wamp/www/musicfy/controllers/user.js",
+		"/C/wamp/www/musicfy/routes/user.js",
+		"/C/wamp/www/musicfy/controllers/album.js",
+		"/C/wamp/www/musicfy/routes/album.js",
+		"/C/wamp/www/musicfy/routes/song.js",
+		"/C/wamp/www/musicfy/controllers/song.js",
+		"/C/wamp/www/musicfy/routes/artist.js",
+		"/C/wamp/www/musicfy/models/user.js",
+		"/C/wamp/www/musicfy/controllers/artist.js",
+		"/C/wamp/www/musicfy/models/album.js",
+		"/C/wamp/www/musicfy/services/jwt.js",
+		"/C/wamp/www/musicfy/middleware/authentication.js",
+		"/C/wamp/www/musicfy/models/artist.js",
+		"/C/wamp/www/musicfy/models/song.js"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"C:\\wamp\\www\\musicfy"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"form",
+			";\n",
+			"artist-ed",
+			"boot",
+			"token no valido",
+			"token",
+			"token ",
+			"valido",
+			"token no valido"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/wamp/www/crm/package.json",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 222,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "proyecto-musicfy.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
